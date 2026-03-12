@@ -1,11 +1,22 @@
+# Langoekytlice
 
-  # Kytlice Langosz Stand Design
+Website for a langos street food stand in Kytlice, Czech Republic.
 
-  This is a code bundle for Kytlice Langosz Stand Design. The original project is available at https://www.figma.com/design/8o7OWE5U0SgdkWlJwKIZR0/Kytlice-Langosz-Stand-Design.
+**Live:** https://march-ready-95466271.figma.site
 
-  ## Running the code
+## Tech
 
-  Run `npm i` to install the dependencies.
+- React 18 + TypeScript
+- Vite
+- Tailwind CSS 4
+- Framer Motion (scroll animations, parallax)
+- Radix UI + shadcn/ui components
+- Figma Make (design-to-code)
 
-  Run `npm run dev` to start the development server.
-  
+## Features
+
+- Animated hero with parallax scrolling
+- Full menu with pricing and food photography
+- CZ / EN / DE language switcher with full translations
+- Location section with directions
+- Responsive layout, mobile-first
