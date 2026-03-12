@@ -1,1 +1,11 @@
-# repo-template
+
+  # Kytlice Langosz Stand Design
+
+  This is a code bundle for Kytlice Langosz Stand Design. The original project is available at https://www.figma.com/design/8o7OWE5U0SgdkWlJwKIZR0/Kytlice-Langosz-Stand-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
